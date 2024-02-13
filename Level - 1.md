@@ -56,4 +56,5 @@ We can see multiple domains but we will take a look at the secret-dd02c7c.html p
 # References
 
 [1] [https://bluexp.netapp.com/blog/aws-cvo-blg-amazon-s3-buckets-finding-open-buckets-with-grayhat-warfare#:~:text=An S3 bucket can be,.s3.amazonaws.com%2F](https://bluexp.netapp.com/blog/aws-cvo-blg-amazon-s3-buckets-finding-open-buckets-with-grayhat-warfare#:~:text=An%20S3%20bucket%20can%20be,.s3.amazonaws.com%2F)
+
 [2] [https://www.bluematador.com/learn/aws-cli-cheatsheet](https://www.bluematador.com/learn/aws-cli-cheatsheet)
