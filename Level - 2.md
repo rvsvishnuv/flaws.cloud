@@ -67,7 +67,7 @@ Next we can now use the same command and note that we found “secret-e4443fc.ht
 
 We can proceed to our newly found domain and proceed to level-3 using the url [http://level2-c8b217a33fcf1f839f6f1f73a00a9ae7.flaws.cloud/secret-e4443fc.html](http://level2-c8b217a33fcf1f839f6f1f73a00a9ae7.flaws.cloud/secret-e4443fc.html).
 
-![Level 2 Flag](flaws.cloud/images/level-2.png)
+![Level 2 Flag](/images/level-2.png)
 
 # References
 
